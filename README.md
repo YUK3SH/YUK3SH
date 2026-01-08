@@ -1,65 +1,95 @@
-<h2 align="center">Hi, this is Yukeshwar R</h2>
-
-<p align="center">
-  Engineering student working at the intersection of  
-  <b>Machine Learning</b>, <b>software development</b>, and <b>data-driven systems</b>.
-</p>
-
-<p align="center">
-  <i>I enjoy building systems where models, data, and code come together —  
-  not just isolated experiments.</i>
-</p>
-
----
-
-## <span style="font-variant: small-caps;">Technical Stack</span>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql,html,css,react,flask,linux,git" />
-</p>
-
----
-
-## <span style="font-variant: small-caps;">What I Work On</span>
-
-➤ Designing and implementing **machine learning workflows**  
-➤ Data preprocessing, **model evaluation**, and analysis  
-➤ Backend services supporting **ML-driven applications**  
-➤ Strengthening **problem-solving skills** using Java  
-➤ Working with **relational data** using SQL  
-
----
-
-## <span style="font-variant: small-caps;">Areas of Interest</span>
-
-➜ Machine Learning Systems  
-➜ Applied Data Analysis  
-➜ Backend & API Development  
-➜ Software Engineering Fundamentals  
-➜ Web Technologies (HTML, CSS, JavaScript)  
-
----
-
-## <span style="font-variant: small-caps;">How I Approach Projects</span>
-
-➤ Focus on **clarity over complexity**  
-➤ Prefer **maintainable solutions** over quick hacks  
-➤ Care about **why a model works**, not just its accuracy  
-➤ Treat ML as **part of a system**, not a standalone task  
-
----
-
-## <span style="font-variant: small-caps;">Currently Improving</span>
-
-➜ Model evaluation techniques & interpretability  
-➜ Backend design patterns  
-➜ Writing cleaner, more expressive code  
-➜ Understanding ML pipelines in production settings  
-
----
+<h2 align="center">Hi, this is Yukeshwar R 👋</h2>
 
 <p align="center">
   <sub>
-    GitHub is where I experiment, refine ideas, and build systems incrementally.
+    Engineering student working across <b>Machine Learning</b>, 
+    <b>backend systems</b>, and <b>data-driven applications</b>
+  </sub>
+</p>
+
+<br/>
+
+<h3 align="center">🧰 Tech Snapshot</h3>
+
+<p align="center">
+  <!-- Core languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- ML / Data -->
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=flat" />
+</p>
+
+<p align="center">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+</p>
+
+<p align="center">
+  <!-- Systems -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+<br/>
+
+<h3>🧠 What I Work On</h3>
+
+▸ ML pipelines: data → model → evaluation  
+▸ Backend logic for ML-enabled applications  
+▸ Java-based problem solving & core logic  
+▸ SQL-driven structured data handling  
+
+<br/>
+
+<h3>🧭 How I Approach Problems</h3>
+
+▸ Start simple, then iterate  
+▸ Prefer clarity over cleverness  
+▸ Treat ML as part of a system  
+▸ Correctness before optimization  
+
+<br/>
+
+<h3>🎯 Direction & Interests</h3>
+
+→ Machine Learning Systems  
+→ Applied Data Analysis  
+→ Backend & API Development  
+→ Software Engineering Fundamentals  
+→ Web Technologies  
+
+<br/>
+
+<p align="center">
+  <sub>
+    Building skills through projects, iteration, and deliberate practice.
   </sub>
 </p>
