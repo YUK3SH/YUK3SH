@@ -60,36 +60,45 @@
 
 <br/>
 
-<h3>🧠 What I Work On</h3>
-
-▸ ML pipelines: data → model → evaluation  
-▸ Backend logic for ML-enabled applications  
-▸ Java-based problem solving & core logic  
-▸ SQL-driven structured data handling  
-
-<br/>
-
-<h3>🧭 How I Approach Problems</h3>
-
-▸ Start simple, then iterate  
-▸ Prefer clarity over cleverness  
-▸ Treat ML as part of a system  
-▸ Correctness before optimization  
-
-<br/>
-
-<h3>🎯 Direction & Interests</h3>
-
-→ Machine Learning Systems  
-→ Applied Data Analysis  
-→ Backend & API Development  
-→ Software Engineering Fundamentals  
-→ Web Technologies  
-
-<br/>
+<h3 align="center">ＦＯＣＵＳ&nbsp;&nbsp;ＡＲＥＡＳ</h3>
 
 <p align="center">
-  <sub>
-    Building skills through projects, iteration, and deliberate practice.
-  </sub>
+  <code>ML pipelines & evaluation</code><br/>
+  <code>Backend logic for intelligent systems</code><br/>
+  <code>Java core problem solving</code><br/>
+  <code>SQL-based data handling</code>
 </p>
+
+<br/>
+
+<h3 align="center">ＥＮＧＩＮＥＥＲＩＮＧ&nbsp;&nbsp;ＡＰＰＲＯＡＣＨ</h3>
+
+<p align="center">
+  <code>Iterate from simple solutions</code><br/>
+  <code>Clarity over cleverness</code><br/>
+  <code>Systems-first thinking</code><br/>
+  <code>Correctness before optimization</code>
+</p>
+
+<br/>
+
+<h3 align="center">ＤＩＲＥＣＴＩＯＮ&nbsp;&nbsp;ＩＮＴＥＲＥＳＴＳ</h3>
+
+<p align="center">
+  <code>Machine Learning Systems · Data Analysis</code><br/>
+  <code>Backend & API Development</code><br/>
+  <code>Software Engineering Fundamentals</code>
+</p>
+
+<br/>
+
+<h3 align="center">ＳＹＳＴＥＭ&nbsp;&nbsp;ＴＨＩＮＫＩＮＧ</h3>
+
+<p align="center">
+  <code>Input → Processing → Validation → Output</code><br/>
+  <code>Data → Logic → Constraints → Results</code>
+</p>
+
+<br/>
+
+<p align="center"><sub><i>Forged through practice, iteration, and discipline.</i></sub></p>
