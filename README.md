@@ -1,4 +1,4 @@
-<h2 align="center">Hi, this is Yukeshwar R 👋</h2>
+<h2 align="center">𝗛𝗶, 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗬𝘂𝗸𝗲𝘀𝗵𝘄𝗮𝗿 𝗥 ⚙️</h2>
 
 <p align="center">
   <sub>
@@ -9,7 +9,7 @@
 
 <br/>
 
-<h3 align="center">🧰 Tech Snapshot</h3>
+<h3 align="center">ＴＥＣＨ&nbsp;&nbsp;ＳＴＡＣＫ</h3>
 
 <p align="center">
   <!-- Core languages -->
